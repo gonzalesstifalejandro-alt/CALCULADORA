@@ -1,4 +1,4 @@
-# Calculadora Ampliada
+# Calculadora 
 
 ## Descripción
 
@@ -105,4 +105,4 @@ Elige una opción: 13
 
 ## Autor
 
-**[Escribe aquí tu nombre completo]**
+**Gonzales Stif Alejandro**
